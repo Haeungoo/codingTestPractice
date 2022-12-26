@@ -11,7 +11,7 @@ public class Programmers_Lv0_3 {
     }
 
     private static int[] odd_num_array(int n) {
-        int[] answer = {};
+        int[] answer;
         if(n%2==0){
             answer = new int[n/2];
             for(int j = 0; j < n/2; j++){
