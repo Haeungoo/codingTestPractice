@@ -1,8 +1,8 @@
-package org.example;
+package org.example.programmers;
 
 import java.util.Arrays;
 
-public class Programmers_Lv0_3 {
+public class Lv0_I_hate_even_numbers {
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(odd_num_array(10)));

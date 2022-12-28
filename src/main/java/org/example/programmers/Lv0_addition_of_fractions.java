@@ -1,8 +1,8 @@
-package org.example;
+package org.example.programmers;
 
 import java.util.Arrays;
 
-public class Programmers_Lv0_2 {
+public class Lv0_addition_of_fractions {
     static int denum1 = 1;
     static int num1 = 2;
     static int denum2 =3;

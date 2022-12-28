@@ -1,6 +1,6 @@
-package org.example;
+package org.example.programmers;
 
-public class Programmers_Lv0 {
+public class Lv0_babbling {
     //private final static: 메모리에 한 번 올라가면 같은 값을 클래스 내부의 전체 필드, 메서드에서 공유한다.
     private final static String[] first_babbling = {"aya", "yee", "u", "maa", "wyeoo"};
     private final static String[] second_babbling = {"ayaye", "uuuma", "ye", "yemawoo", "ayaa"};
