@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.Lv0;
 
 public class Lv0_pizza_box {
 

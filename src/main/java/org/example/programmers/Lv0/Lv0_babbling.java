@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.Lv0;
 
 public class Lv0_babbling {
     //private final static: 메모리에 한 번 올라가면 같은 값을 클래스 내부의 전체 필드, 메서드에서 공유한다.

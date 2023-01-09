@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.Lv0;
 
 import java.math.BigInteger; // int의 범위를 넘는 수가 나오기 때문에 BigInteger 사용(divide, multiply 함수 사용 가능)
 
