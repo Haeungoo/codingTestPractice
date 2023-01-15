@@ -19,13 +19,13 @@ public class Lv0_sort_string_2 {
     }
 
     private static String sort_string_2(String my_string) {
-        String answer = "";
+        StringBuilder answer = new StringBuilder();
         String[] str = my_string.toLowerCase().split("");
         Arrays.sort(str);
-        for(int i = 0; i < str.length; i++){
-            answer += str[i];
+        for (String s : str) {
+            answer.append(s);
         }
-        return answer;
+        return answer.toString();
     }
     private static String sort_string_2_stream(String my_string) {
         return Arrays.stream(my_string.toLowerCase().split("")).sorted().collect(Collectors.joining());
