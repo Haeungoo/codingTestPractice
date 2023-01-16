@@ -1,7 +1,5 @@
 package org.example.programmers.Lv0;
 
-import java.util.Scanner;
-
 public class Lv0_print_star {
 
 

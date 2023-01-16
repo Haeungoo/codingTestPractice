@@ -1,9 +1,5 @@
 package org.example.programmers.Lv0;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class Lv0_sum_number_inside_string {
 
     public static void main(String[] args) {

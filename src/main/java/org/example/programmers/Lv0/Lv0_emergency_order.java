@@ -1,7 +1,6 @@
 package org.example.programmers.Lv0;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class Lv0_emergency_order {
 

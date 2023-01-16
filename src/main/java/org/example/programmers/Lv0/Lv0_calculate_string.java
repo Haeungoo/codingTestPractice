@@ -1,7 +1,5 @@
 package org.example.programmers.Lv0;
 
-import java.util.stream.IntStream;
-
 public class Lv0_calculate_string {
 
     public static void main(String[] args) {

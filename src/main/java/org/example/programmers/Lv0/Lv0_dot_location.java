@@ -1,7 +1,5 @@
 package org.example.programmers.Lv0;
 
-import java.util.Arrays;
-
 public class Lv0_dot_location {
 
     public static void main(String[] args) {

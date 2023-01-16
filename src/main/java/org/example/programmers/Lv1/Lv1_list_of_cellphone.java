@@ -1,7 +1,6 @@
 package org.example.programmers.Lv1;
 
 import java.util.Arrays;
-import java.util.HashMap;
 
 public class Lv1_list_of_cellphone {
 
