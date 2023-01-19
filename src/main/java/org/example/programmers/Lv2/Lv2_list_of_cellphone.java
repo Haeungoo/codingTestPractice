@@ -1,4 +1,4 @@
-package org.example.programmers.Lv1;
+package org.example.programmers.Lv2;
 
 import java.util.Arrays;
 import java.util.Iterator;
