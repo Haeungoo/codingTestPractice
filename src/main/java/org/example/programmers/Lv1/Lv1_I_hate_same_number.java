@@ -14,7 +14,6 @@ public class Lv1_I_hate_same_number {
     }
     private static int[] function_stack(int[] arr){
         Stack<Integer> stack = new Stack<>();
-
         for (int j : arr) {
             if (!stack.isEmpty()) {
                 if (stack.peek() != j) {
@@ -25,10 +24,9 @@ public class Lv1_I_hate_same_number {
             }
         }
         int [] answer = new int[stack.size()];
-        for(int i=stack.size()-1; i >= 0; i--){
+        for(int i=stack.size()-1; i >= 0; i--){ //스택은 pop하면 선입후출이므로 역순서로 배열에 넣는다. => stack.size()-1로 시작
             answer[i] = stack.pop();
         }
-        //스택은 pop하면 선입후출이므로 역순서로 배열에 넣는다.
         return answer;
     }
 
@@ -45,12 +43,9 @@ public class Lv1_I_hate_same_number {
             }
         }
         answer = new int[aList.size()];
-
         for(int i = 0; i<aList.size();i++){
             answer[i] = aList.get(i);
         }
-
-
         return answer;
     }
 }
